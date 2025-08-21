@@ -5,3 +5,4 @@ This site is created by William Hao, for everyone to learn Java in the most simp
 ##
 
 This site has not been updated yet, cuz we just started. Be back in a few days!
+if you saw this site by accident, just ignore this fun website!!!
